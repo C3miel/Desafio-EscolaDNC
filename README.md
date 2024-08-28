@@ -23,4 +23,5 @@ GitHub: C3miel
 Notas:
 
 Link do site: https://arquitetusdnc.netlify.app/
+
 Link da planilha: https://docs.google.com/spreadsheets/d/1PET_7Eg6LX65aaAbE07QzOXkZvHsQlgJfigetK_MvWs/edit?gid=0#gid=0
