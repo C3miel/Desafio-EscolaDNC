@@ -17,7 +17,6 @@ E então só clicar em "Fale Conosco"
 
 Contato:
 Se você tiver alguma dúvida, entre em contato:
-
 Email: cemiel.albuquerque2@gmail.com
 GitHub: C3miel
 
