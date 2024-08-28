@@ -1,5 +1,5 @@
 # Desafio-EscolaDNC
-Projeto e desafio de Desenvolvimento de uma página de uma empresa de arquitetura, usando o módulo base da escola DNC. Ela tem uma breve explicação sobre a empresa, e sua expêriencia no mercado. Abaixo se tem um formulário onde os dados preenchidos serão enviados diretamente para uma planilha, que foi vinculada ao site, utilizando o Sheet Monkey.
+Projeto e desafio de Desenvolvimento de uma página de uma empresa de arquitetura, usando o módulo base da escola DNC, e se baseando em um design no Figma. Ela tem uma breve explicação sobre a empresa, e sua expêriencia no mercado. Abaixo se tem um formulário onde os dados preenchidos serão enviados diretamente para uma planilha, que foi vinculada ao site, utilizando o Sheet Monkey.
 
 ## Tabela de Conteúdos
 - [Uso](#uso)
@@ -25,3 +25,5 @@ Notas:
 Link do site: https://arquitetusdnc.netlify.app/
 
 Link da planilha: https://docs.google.com/spreadsheets/d/1PET_7Eg6LX65aaAbE07QzOXkZvHsQlgJfigetK_MvWs/edit?gid=0#gid=0
+
+Design do Figma utilizado: https://www.figma.com/design/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=0-1&t=Mxw4uRYNQeWCFSB0-0
